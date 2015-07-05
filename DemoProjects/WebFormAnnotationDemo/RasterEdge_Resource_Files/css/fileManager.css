@@ -1,0 +1,69 @@
+﻿body {background:#354346;font-family:Arial,Helvetica,sans-serif;-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none;-ms-user-select:none;}
+#FM_header{margin:auto;background:url('../images/RE_tool_bg2.jpg') repeat-x bottom #b2b0a7;border:2px solid #999999;}
+#FM_titleIcon{width:25px;height:25px;margin:2px 2px 2px 10px;background:url('../images/logo.png') no-repeat -0px 0px;}
+
+#FM_container{margin:auto;border:2px solid #999999;border-top:0px;}
+#FM_toolbar{background:#ffffff;border-bottom:1px solid #999999;float:left;}
+#FM_navibar{overflow-x:hidden;overflow-y:auto;background:#efefef;}
+#FM_naviItems_Panel{margin:15px 2px 0px 0px;font-size:12px;}
+#FM_content_Panel{margin:5px 0px 0px 15px;}
+
+#FM_resize:hover{cursor:e-resize;}
+#FM_resize_icon{background:#dbedfd;cursor:pointer;}
+#FM_resize_img{background-color:#dbedfd;background:url(../images/ui-icons_454545_256x240.png) no-repeat -102px -20px;}
+
+.FM_toolbarItem{width:auto;float:left;}
+.FM_toolbarItemContent{padding-left:5px;padding-right:5px;width:auto;font-size:12px;float:left;border:2px solid #ffffff;}
+.FM_toolbarItemIcon{background:url(../images/ui-icons_888888_256x240.png) no-repeat -33px -15px;border:2px solid #ffffff;border-left:0px;float:left;}
+/*.FM_naviItem:hover{border-color:#d0e7fe;}*/
+
+.title_item{overflow:hidden;padding-left:5px;border-bottom:1px solid #ffffff;}
+.title_item:hover{background:#F3F7FD;border-bottom:1px solid #D9D9D9;}
+.title_resize{float:left;background:#D9D9D9;cursor:e-resize;border:1px solid #ffffff;}
+
+._instancePanel{cursor:default;}
+.FM_Instance_Item{overflow:hidden;border:1px solid #ffffff;float:left;}
+.FM_Instance_Item:hover{border:1px solid #64BAE4;background:#E5F3FA;}
+.InstanceItem_select{border:1px solid #529DE7;background:#D0E7FE;}
+
+.FM_name_instance{overflow:hidden;}
+.FM_modify_instance{overflow:hidden;color:#6D6D6D;}
+.FM_type_instance{overflow:hidden;color:#6D6D6D;}
+.FM_size_instance{overflow:hidden;color:#6D6D6D;}
+
+._naviPanel{overflow:hidden;border:1px solid #ffffff;cursor:default;}
+._naviPanel:hover{border:1px solid #64BAE4;background:#E5F3FA;}
+.naviPanel_select{border:1px solid #529DE7;background:#D0E7FE;}
+
+.fm_arrowicon_style{position:relative;top:25%;background:url(../images/ui-icons_454545_256x240.png) no-repeat -38px -20px;cursor:pointer;}
+.fm_foldericon_style{margin-right:5px;position:relative;top:10%;background:url(../images/Folder.png) no-repeat -2px 0px;}
+._naviPanel{overflow:hidden;}
+.fm_fileFolderIcon{background:url(../images/Folder.png) no-repeat -2px 0px;}
+
+.previewerPanel{position:absolute;background:#efefef;display:block;border:1px solid #000000;}
+
+.FM_listItem{border:1px solid #efefef;}
+.FM_listItem:hover{border:1px solid #64BAE4;background:#E5F3FA;cursor:pointer;}
+.FM_selectListItem{font-weight:bold;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
